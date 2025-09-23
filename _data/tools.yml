@@ -1477,6 +1477,14 @@
   v2: true
   v3: true
 
+- name: swagger-coverage-cli
+  category: testing
+  language: Node.js / CLI
+  description:
+    A comprehensive command-line utility to analyze API test coverage across multiple protocols: OpenAPI/Swagger (REST), gRPC Protocol Buffers, and GraphQL schemas. Generates unified HTML reports with protocol-specific insights.
+  v2: true
+  v3: true
+
 - name: Azure AutoRest
   category:
     - sdk
